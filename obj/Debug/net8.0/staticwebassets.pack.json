@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPage.bundle.scp.css",
+      "Id": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPage.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorPage.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\app.css",
+      "Id": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\favicon.png",
+      "Id": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

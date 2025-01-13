@@ -20,7 +20,6 @@ C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiT
 C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorPage.props
 C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\scopedcss\bundle\BlazorPage.styles.css
 C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\scopedcss\projectbundle\BlazorPage.bundle.scp.css
 C:\Users\nfn\git\BlazorPage\obj\Debug\net8.0\BlazorPage.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wNZ7yGsmlBcjQGNzPL6PEW/Jvw79KN+AROKadDfaQAc=",
+  "Hash": "ve3oYN9+xQ/gEgNvJs2O8pIDXVasWBvLX/RqN/Df53I=",
   "Source": "BlazorPage",
   "BasePath": "_content/BlazorPage",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorPage\\wwwroot",
       "Source": "BlazorPage",
-      "ContentRoot": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
       "BasePath": "_content/BlazorPage",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPage.styles.css",
+      "Identity": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPage.styles.css",
       "SourceId": "BlazorPage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorPage",
       "RelativePath": "BlazorPage.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPage.styles.css"
+      "OriginalItemSpec": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPage.styles.css"
     },
     {
-      "Identity": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPage.bundle.scp.css",
+      "Identity": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPage.bundle.scp.css",
       "SourceId": "BlazorPage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorPage",
       "RelativePath": "BlazorPage.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPage.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPage.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\app.css",
+      "Identity": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\app.css",
       "SourceId": "BlazorPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
       "BasePath": "_content/BlazorPage",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
       "BasePath": "_content/BlazorPage",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
       "BasePath": "_content/BlazorPage",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\favicon.png",
+      "Identity": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\favicon.png",
       "SourceId": "BlazorPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\nfn\\git\\BlazorPage\\wwwroot\\",
       "BasePath": "_content/BlazorPage",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
