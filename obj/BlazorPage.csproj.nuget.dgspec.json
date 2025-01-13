@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj": {}
+    "c:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj": {
+    "c:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj",
+        "projectUniqueName": "c:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj",
         "projectName": "BlazorPage",
-        "projectPath": "C:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj",
+        "projectPath": "c:\\Users\\nfn\\git\\BlazorPage\\BlazorPage.csproj",
         "packagesPath": "C:\\Users\\nfn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nfn\\git\\BlazorPage\\obj\\",
+        "outputPath": "c:\\Users\\nfn\\git\\BlazorPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
