@@ -1,1 +1,30 @@
 /* _content/BlazorPage/Components/Layout/MainLayout.razor.rz.scp.css */
+/* _content/BlazorPage/Components/Pages/Home.razor.rz.scp.css */
+*[b-ikv5928vcy] {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.content[b-ikv5928vcy] {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: #2e2e2e;
+    align-items: center;
+}
+
+.title[b-ikv5928vcy] {
+    color: white;
+    margin: 2rem 0 3rem 0;
+}
+
+.personContainer[b-ikv5928vcy] {
+    width: 600px;
+    height: 80vh;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #3e3e3e;
+}

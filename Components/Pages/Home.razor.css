@@ -1,12 +1,10 @@
-/* _content/BlazorPage/Components/Layout/MainLayout.razor.rz.scp.css */
-/* _content/BlazorPage/Components/Pages/Home.razor.rz.scp.css */
-*[b-ikv5928vcy] {
+* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-.content[b-ikv5928vcy] {
+.content {
     display: flex;
     flex-direction: column;
     width: 100vw;
@@ -15,12 +13,12 @@
     align-items: center;
 }
 
-.title[b-ikv5928vcy] {
+.title {
     color: white;
     margin: 2rem 0 3rem 0;
 }
 
-.personContainer[b-ikv5928vcy] {
+.personContainer {
     width: 600px;
     height: 80vh;
     border: none;
